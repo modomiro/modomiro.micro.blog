@@ -1,0 +1,76 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "modomiro",
+	"icon": "https://micro.blog/modomiro/avatar.jpg",
+	"home_page_url": "https://modomiro.micro.blog/",
+	"feed_url": "https://modomiro.micro.blog/feed.json",
+	"items": [
+		
+			{
+				"id": "http://modomiro.micro.blog/2022/03/05/the-ivy-climbs.html",
+				
+				"content_html": "<p>The ivy climbs towards the<br>\nCloud and suffocates the tree.<br>\nUnmoved the blue sky.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The ivy climbs towards the  \nCloud and suffocates the tree.  \nUnmoved the blue sky.  \n\n<img src=\"uploads/2022/2422ca6472.jpg\" />\n",
+				"date_published": "2022-03-05T13:36:46+01:00",
+				"url": "https://modomiro.micro.blog/2022/03/05/the-ivy-climbs.html"
+			},
+			{
+				"id": "http://modomiro.micro.blog/2022/03/05/good-things-test.html",
+				"title": "# Good Things (test)",
+				"content_html": "<p>Following <a href=\"https://goodthings.melanie-richards.com\" title=\"Good Things. A personal compilation of good sensory things in life.\">Melanie Richards' example</a>, I keep my own little list of Good Things.</p>\n<p>Following Melanie Richards' example, I keep my own little list of Good Things. It reminds me of the lists Sei Shonagon kept in her pillow book. I like this.</p>\n<p>A surprising scent of flowers on a spring night. Cool sheets. The silence of the city in the snow. The sound of opening a new book. A squirrel hiding hazelnuts in our flower pots. The first smell of autumn on an August evening. The full moon in September. The soft spring leaves of beech trees. Crispy French fries. Unexpectedly discovering an interesting book in the library. Scraping out vanilla pods. A gentle kiss. Dragging fingers through dewy grass. Squinting into the sun. The sound of the sea and sand between the toes. Eating a ripe peach. Opening the window and letting cool air and birdsong into the room. Being sleepy. A song not heard for a long time. A stomach ache from laughing. The buzz from two glasses of excellent wine. The feeling of linen on the skin. When the sun breaks through the clouds and suddenly warms the back of your neck. The smell of chlorine from a swimming pool in summer. \nDem Beispiel von Melanie Richards folgend führe ich meine eigene kleine Liste von Guten Dingen. Sie erinnert mich an die Listen, die Sei Shonagon in ihrem Kopfkissenbuch geführt hat. Ich mag das.</p>\n",
+				"content_text": "Following [Melanie Richards' example](https://goodthings.melanie-richards.com \"Good Things. A personal compilation of good sensory things in life.\"), I keep my own little list of Good Things. \r\n\r\nFollowing Melanie Richards' example, I keep my own little list of Good Things. It reminds me of the lists Sei Shonagon kept in her pillow book. I like this.\r\n\r\nA surprising scent of flowers on a spring night. Cool sheets. The silence of the city in the snow. The sound of opening a new book. A squirrel hiding hazelnuts in our flower pots. The first smell of autumn on an August evening. The full moon in September. The soft spring leaves of beech trees. Crispy French fries. Unexpectedly discovering an interesting book in the library. Scraping out vanilla pods. A gentle kiss. Dragging fingers through dewy grass. Squinting into the sun. The sound of the sea and sand between the toes. Eating a ripe peach. Opening the window and letting cool air and birdsong into the room. Being sleepy. A song not heard for a long time. A stomach ache from laughing. The buzz from two glasses of excellent wine. The feeling of linen on the skin. When the sun breaks through the clouds and suddenly warms the back of your neck. The smell of chlorine from a swimming pool in summer. \r\nDem Beispiel von Melanie Richards folgend führe ich meine eigene kleine Liste von Guten Dingen. Sie erinnert mich an die Listen, die Sei Shonagon in ihrem Kopfkissenbuch geführt hat. Ich mag das.\n",
+				"date_published": "2022-03-05T11:03:44+01:00",
+				"url": "https://modomiro.micro.blog/2022/03/05/good-things-test.html"
+			},
+			{
+				"id": "http://modomiro.micro.blog/2022/02/27/i-am-just.html",
+				
+				"content_html": "<p>I am just so tired. In every way. So. Tired.</p>\n",
+				"content_text": "I am just so tired. In every way. So. Tired.\n",
+				"date_published": "2022-02-27T17:44:17+01:00",
+				"url": "https://modomiro.micro.blog/2022/02/27/i-am-just.html"
+			},
+			{
+				"id": "http://modomiro.micro.blog/2022/02/24/war-i-never.html",
+				
+				"content_html": "<p>War. I never thought that war would return to Europe. I hope that this century will not be even more like the last one.</p>\n<p>Krieg. Niemals hätte ich gedacht, dass der Krieg nach Europa zurückkehrt. Ich hoffe, dass dieses Jahrhundert dem letzten nicht noch ähnlicher wird.</p>\n",
+				"content_text": "War. I never thought that war would return to Europe. I hope that this century will not be even more like the last one.\n\nKrieg. Niemals hätte ich gedacht, dass der Krieg nach Europa zurückkehrt. Ich hoffe, dass dieses Jahrhundert dem letzten nicht noch ähnlicher wird.\n",
+				"date_published": "2022-02-24T07:57:11+01:00",
+				"url": "https://modomiro.micro.blog/2022/02/24/war-i-never.html",
+				"tags": ["today"]
+			},
+			{
+				"id": "http://modomiro.micro.blog/2022/02/15/the-best-dream.html",
+				
+				"content_html": "<p>The best dream tonight: Boarding a small charter plane on the Mediterranean and flying through a thunderstorm with a few others as Mount Etna erupted and embers rained down on the rising plane. I felt physically younger in the dream, yes, in deed,  that made all the difference and made this a very pleasant dream: just the feeling of not being petrified in a body permanently on alert was so liberating that the rest was rather so &ldquo;oh, really?&rdquo;.</p>\n",
+				"content_text": "The best dream tonight: Boarding a small charter plane on the Mediterranean and flying through a thunderstorm with a few others as Mount Etna erupted and embers rained down on the rising plane. I felt physically younger in the dream, yes, in deed,  that made all the difference and made this a very pleasant dream: just the feeling of not being petrified in a body permanently on alert was so liberating that the rest was rather so \"oh, really?\".\n",
+				"date_published": "2022-02-15T08:13:00+01:00",
+				"url": "https://modomiro.micro.blog/2022/02/15/the-best-dream.html",
+				"tags": ["dreams"]
+			},
+			{
+				"id": "http://modomiro.micro.blog/2022/02/12/finished-reading-lob.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9783717540823\">Lob des Schattens</a> by Jun&rsquo;ichirō Tanizaki 📚</p>\n<p>Ein Essay über die Ästhetik des Schattens von 1933.</p>\n<p>Irritierend sind die Überlegungen, warum der Schatten insbesondere in der japanischen Kultur den Menschen quasi eingeschrieben sei, da die erwogenen Antworten rassi(sti)sche und biologische Qualitäten heranziehen. Da der Schatten aber gleichwohl im Zentrum einer der (kolonialistischen) Verwestlichung entgegengestellten Gegenbewegung gestellt wird, ist dies zeitkritisch nachvollziehbar.</p>\n<p>An essay on the aesthetics of the shadow from 1933. The reflections on why the shadow is virtually inscribed in people, especially in Japanese culture, are irritating, since the answers considered draw on racial and biological qualities. However, since the shadow is nevertheless placed at the centre of a counter-movement opposed to (colonialist) westernisation, this is understandable from a time-critical point of view.</p>",
+				"content_text": "Finished reading: [Lob des Schattens](https://micro.blog/books/9783717540823) by Jun'ichirō Tanizaki 📚\n\nEin Essay über die Ästhetik des Schattens von 1933. <!--more--> Irritierend sind die Überlegungen, warum der Schatten insbesondere in der japanischen Kultur den Menschen quasi eingeschrieben sei, da die erwogenen Antworten rassi(sti)sche und biologische Qualitäten heranziehen. Da der Schatten aber gleichwohl im Zentrum einer der (kolonialistischen) Verwestlichung entgegengestellten Gegenbewegung gestellt wird, ist dies zeitkritisch nachvollziehbar.\n\nAn essay on the aesthetics of the shadow from 1933. The reflections on why the shadow is virtually inscribed in people, especially in Japanese culture, are irritating, since the answers considered draw on racial and biological qualities. However, since the shadow is nevertheless placed at the centre of a counter-movement opposed to (colonialist) westernisation, this is understandable from a time-critical point of view.\n",
+				"date_published": "2022-02-12T22:58:00+01:00",
+				"url": "https://modomiro.micro.blog/2022/02/12/finished-reading-lob.html"
+			},
+			{
+				"id": "http://modomiro.micro.blog/2022/02/12/der-diesjhrige-winter.html",
+				
+				"content_html": "<p>Der diesjährige Winter kommt mir bislang ausnehmend grau vor. Um so schöner ist der Sonnenschein heute. 🌞</p>\n",
+				"content_text": "Der diesjährige Winter kommt mir bislang ausnehmend grau vor. Um so schöner ist der Sonnenschein heute. 🌞\n",
+				"date_published": "2022-02-12T12:37:31+01:00",
+				"url": "https://modomiro.micro.blog/2022/02/12/der-diesjhrige-winter.html"
+			},
+			{
+				"id": "http://modomiro.micro.blog/2022/01/24/i-dont-get.html",
+				
+				"content_html": "<p>I don&rsquo;t get Micro.blog. It is too difficult to find interesting people to follow. The search is disappointing.</p>\n",
+				"content_text": "I don't get Micro.blog. It is too difficult to find interesting people to follow. The search is disappointing.\n",
+				"date_published": "2022-01-24T07:58:08+01:00",
+				"url": "https://modomiro.micro.blog/2022/01/24/i-dont-get.html"
+			}
+	]
+}
