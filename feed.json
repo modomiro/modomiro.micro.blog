@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://modomiro.micro.blog/2022/04/18/pysanka-the-ukrainian.html",
+				"title": "Pysanka - The Ukrainian Easter Egg, 1975 (youtube)",
+				"content_html": "<p>My father&rsquo;s parents came to Germany from their Ukrainian homeland in the forties. One of the few customs he kept alive was this way of dyeing eggs. Every year, these eggs embellished our table. Since the eggs were not boiled or blown out before dyeing, their contents dried. They were very light at the end and rattled. Over time, no new eggs were added because my father stopped making them. Little by little they all disappeared, broken and thrown away.</p>\n<p><a href=\"https://youtu.be/bvsispnCBKc\">youtu.be/bvsispnCB&hellip;</a></p>\n",
+				"content_text": "My father's parents came to Germany from their Ukrainian homeland in the forties. One of the few customs he kept alive was this way of dyeing eggs. Every year, these eggs embellished our table. Since the eggs were not boiled or blown out before dyeing, their contents dried. They were very light at the end and rattled. Over time, no new eggs were added because my father stopped making them. Little by little they all disappeared, broken and thrown away. \n\n[youtu.be/bvsispnCB...](https://youtu.be/bvsispnCBKc)\n",
+				"date_published": "2022-04-18T09:07:53+02:00",
+				"url": "https://modomiro.micro.blog/2022/04/18/pysanka-the-ukrainian.html"
+			},
+			{
+				"id": "http://modomiro.micro.blog/2022/04/16/pen-addict-new.html",
+				
+				"content_html": "<p>pen addict, new definition. 🖋</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "pen addict, new definition. 🖋\n\n<img src=\"uploads/2022/b7b20bcd42.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
+				"date_published": "2022-04-16T08:43:45+02:00",
+				"url": "https://modomiro.micro.blog/2022/04/16/pen-addict-new.html"
+			},
+			{
 				"id": "http://modomiro.micro.blog/2022/04/16/and-suddenly-diabetes.html",
 				
 				"content_html": "<p>And suddenly: diabetes.</p>\n<p>After growing a Corona fat rim during the pandemic, I was quite surprised at the beginning of the month that I had lost 15 pounds for no reason. Ten days later it was already 18 pounds. My great thirst was the second symptom that made me think of diabetes after a brief internet search - the constant exhaustion and brain fog I still attributed to stress.</p>\n<p>One visit to the doctor later, I am now sitting at home with a blood glucose meter and insulin pens and getting used to the idea of living differently in the future.</p>\n",
@@ -34,7 +50,7 @@
 				"id": "http://modomiro.micro.blog/2022/03/21/220234.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n",
-				"content_text": "\n\n<img src=\"uploads/2022/c15c8d3892.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_text": "\n\n<img src=\"https://modomiro.micro.blog/uploads/2022/c15c8d3892.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-03-21T23:02:34+02:00",
 				"url": "https://modomiro.micro.blog/2022/03/21/220234.html"
 			},
@@ -50,7 +66,7 @@
 				"id": "http://modomiro.micro.blog/2022/03/17/sahara-sky.html",
 				
 				"content_html": "<p>Sahara Sky</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Sahara Sky\n\n<img src=\"uploads/2022/4d5c2103fc.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"uploads/2022/711a9ffd5b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_text": "Sahara Sky\n\n<img src=\"https://modomiro.micro.blog/uploads/2022/4d5c2103fc.jpg\" width=\"600\" height=\"450\" alt=\"\" /><img src=\"https://modomiro.micro.blog/uploads/2022/711a9ffd5b.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-03-17T19:41:33+02:00",
 				"url": "https://modomiro.micro.blog/2022/03/17/sahara-sky.html"
 			},
@@ -58,7 +74,7 @@
 				"id": "http://modomiro.micro.blog/2022/03/08/what-excites-me.html",
 				
 				"content_html": "<p>What excites me more than the M1 Ultra? This!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "What excites me more than the M1 Ultra? This!\n\n<img src=\"uploads/2022/257f8cd6fb.png\" width=\"600\" height=\"277\" alt=\"\" />\n",
+				"content_text": "What excites me more than the M1 Ultra? This!\n\n<img src=\"https://modomiro.micro.blog/uploads/2022/257f8cd6fb.png\" width=\"600\" height=\"277\" alt=\"\" />\n",
 				"date_published": "2022-03-08T21:00:04+02:00",
 				"url": "https://modomiro.micro.blog/2022/03/08/what-excites-me.html"
 			},
