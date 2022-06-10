@@ -1,11 +1,19 @@
 {
 	"version": "https://jsonfeed.org/version/1",
-	"title": "modomiro",
+	"title": "modo\u0026shy;miro",
 	"icon": "https://micro.blog/modomiro/avatar.jpg",
 	"home_page_url": "https://modomiro.micro.blog/",
 	"feed_url": "https://modomiro.micro.blog/feed.json",
 	"items": [
 		
+			{
+				"id": "http://modomiro.micro.blog/2022/05/21/mood-intentions-but.html",
+				
+				"content_html": "<p>Mood: Intentions, but no vibes.</p>\n",
+				"content_text": "Mood: Intentions, but no vibes.\n",
+				"date_published": "2022-05-21T09:48:23+02:00",
+				"url": "https://modomiro.micro.blog/2022/05/21/mood-intentions-but.html"
+			},
 			{
 				"id": "http://modomiro.micro.blog/2022/04/18/pysanka-the-ukrainian.html",
 				"title": "Pysanka - The Ukrainian Easter Egg, 1975 (youtube)",
